@@ -6,7 +6,7 @@ apt update
 # add essentials
 # add xorg/utilities
 # add window manager/utlities
-apt install neofetch git vim htop unzip xorg i3 i3blocks i3status suckless-tools i3lock nnn feh mpv
+apt install neofetch git vim htop unzip xorg i3 i3blocks i3status suckless-tools i3lock nnn feh mpv lightdm
 # config window manager/utilities
 # add extra
 # make configs
